@@ -13,22 +13,7 @@ collection: portfolio
 
 - Utilized remote sensing and geophysical conditioning datasets for the modelling.
 
-- Used other objective models (CRITIC-CoCoSo; Mean Weighted CoCoSo) as comparative tools. 
-
-- The produced groundwater potential map (IDOCRIW-CoCoSo) is advantageous in meeting SDG 6.1 goals
-
-<figure>
-  <img src= "/images/portfolio/Idocriw_cocoso/2.PNG" alt="Groundwater Potential Map (IDOCRIW-CoCoSo)">
-  <figcaption><em>Groundwater Potential Map (IDOCRIW-CoCoSo)</em></figcaption>
-</figure>
-<figure>
-  <img src= "/images/portfolio/Idocriw_cocoso/3.png" alt="Groundwater Potential Map (CRITIC-CoCoSo)">
-  <figcaption><em>Groundwater Potential Map (CRITIC-CoCoSo)</em></figcaption>
-</figure>
-<figure>
-  <img src= "/images/portfolio/Idocriw_cocoso/4.png" alt="Groundwater Potential Map (Mean Weighted-CoCoSo)">
-  <figcaption><em>Groundwater Potential Map (Mean Weighted-CoCoSo)</em></figcaption>
-</figure> 
+- Used other objective models (CRITIC-CoCoSo, and Mean Weighted CoCoSo) as comparative tools. 
 
 ### Methodology ### 
 - Creation of conditioning factors maps using ArcGIS 10.8.2 software. 
@@ -37,7 +22,7 @@ collection: portfolio
 
 - Groundwater potential maps have been generated based on the models. 
 
-- Reliability and comparative analysis were adopted leveraging on statistical analysis like Bootrapping of AUC results
+- Reliability and comparative analysis were adopted leveraging on statistical analysis like Boostrapping of AUC results
 
 <figure>
   <img src= "/images/portfolio/Idocriw_cocoso/5.PNG" alt="Methodology Flowchart">
@@ -53,6 +38,16 @@ collection: portfolio
  
 - IDOCRIW-CoCoSo demonstrated stability during scenario analysis
 
+- The produced groundwater potential map (IDOCRIW-CoCoSo) is advantageous in meeting SDG 6.1 goals
+
+<figure>
+  <img src= "/images/portfolio/Idocriw_cocoso/2.PNG" alt="Groundwater potential map (IDOCRIW-CoCoSo)">
+  <figcaption><em>Groundwater Potential Map (IDOCRIW-CoCoSo)</em></figcaption>
+</figure>
+<figure>
+  <img src= "/images/portfolio/Idocriw_cocoso/3.png" alt="Bootstrapped AUC result of the models">
+  <figcaption><em>Bootstrapped AUC result used as a form of computational efficiency assessment of the models</em></figcaption>
+</figure>
 <figure>
   <img src= "/images/portfolio/Idocriw_cocoso/7.PNG" alt="Sensitivity analysis of IDOCRIW-CoCoSo">
   <figcaption><em>Sensitivity analysis of IDOCRIW-CoCoSo</em></figcaption>
