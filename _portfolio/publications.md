@@ -1,6 +1,6 @@
 ---
 title: "My Under Review Papers"
-excerpt: "Caption <br/><img src='soliu-mudashiru/images/portfolio/ml_gpot/8.PNG'>"
+excerpt: "Caption <br/><img src='/images/portfolio/ml_gpot/8.PNG'>"
 collection: portfolio
 ---
 
