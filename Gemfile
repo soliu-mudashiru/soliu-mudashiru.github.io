@@ -11,3 +11,7 @@ end
 
 gem 'github-pages'
 gem 'connection_pool', '2.5.0'
+
+gem "public_suffix", "= 5.1.1"
+
+gem "tzinfo-data", "~> 1.2025"

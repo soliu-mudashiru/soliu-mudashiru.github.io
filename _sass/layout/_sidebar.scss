@@ -25,7 +25,7 @@
   }
 
   @include breakpoint($large) {
-    @include span(2 of 12);
+    @include span(3 of 12);        // Changed this settings from 2 of 12 to 3 of 12 so it widens abit
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -51,7 +51,7 @@
 
   p, li {
     font-family: $sans-serif;
-    font-size: $type-size-6;
+    font-size: $type-size-5;       // Changed this settings from 6 to 5 for a bigger text size
     line-height: 1.5;
   }
 
@@ -95,7 +95,7 @@
 
   img {
     max-width: 175px;
-    border-radius: 50%;
+    border-radius: 0; /* removes the circular crop */
 
     @include breakpoint($large) {
       padding: 5px;
@@ -129,7 +129,7 @@
 }
 .sidebar .author__name {
   font-family: $sans-serif;
-  font-size: $type-size-5;
+  font-size: $type-size-4;    // Changed from 5 to 4 to increase size
 }
 
 .sidebar .author__desktop {
@@ -150,10 +150,13 @@
 
 .author__bio {
   margin: 0;
+  font-size: $type-size-4;   // added this line to make text larger than default
+  line-height: var(--base-line-height); // use theme variable for consistency
 
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 20px;
+    font-size: $type-size-4; // added this line to make it even larger on desktop
   }
 }
 
