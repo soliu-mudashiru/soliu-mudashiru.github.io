@@ -35,9 +35,9 @@ collection: portfolio
 
 - Fishnet points extraction into Python programming coded models. 
 
-- Groundwater potential maps based on the models. 
+- Groundwater potential maps have been generated based on the models. 
 
-- Reliability and comparative 
+- Reliability and comparative analysis were adopted leveraging on statistical analysis like Bootrapping of AUC results
 
 <figure>
   <img src= "/images/portfolio/Idocriw_cocoso/5.PNG" alt="Methodology Flowchart">
