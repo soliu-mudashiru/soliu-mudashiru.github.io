@@ -23,7 +23,7 @@ repository               : "soliu-mudashiru/soliu-mudashiru.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile1.png"
+  avatar           : "soliu-mudashiru/Profile1.png"
   name             : "Soliu Mudashiru"
   pronouns         :  
   bio              : "Geospatial Modelling|Decision Analytics"
