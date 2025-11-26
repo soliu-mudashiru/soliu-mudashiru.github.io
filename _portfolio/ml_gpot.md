@@ -20,7 +20,7 @@ collection: portfolio
   <figcaption><em>Fishnet location used to extract values of influencing variables into the modelling. It was also adopted in selecting appropriate target points from the borehole yield map which served as the spatial representation of the target variable in the study region </em></figcaption>
 </figure>
 <figure>
-  <img src= "/images/portfolio/ml_gpot/3.png" alt="Methodology flowchart">
+  <img src= "/images/portfolio/ml_gpot/3.PNG" alt="Methodology flowchart">
   <figcaption><em>Flowchart detailing the whole workflow involved in the data driven ML approach applied to the assessment of groundwater sustainability in the area </em></figcaption>
 </figure>
 <figure>
