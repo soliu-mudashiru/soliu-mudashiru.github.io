@@ -22,11 +22,11 @@ collection: portfolio
   <figcaption><em>Groundwater Potential Map (IDOCRIW-CoCoSo)</em></figcaption>
 </figure>
 <figure>
-  <img src= "/images/portfolio/Idocriw_cocoso/3.PNG" alt="Groundwater Potential Map (CRITIC-CoCoSo)">
+  <img src= "/images/portfolio/Idocriw_cocoso/3.png" alt="Groundwater Potential Map (CRITIC-CoCoSo)">
   <figcaption><em>Groundwater Potential Map (CRITIC-CoCoSo)</em></figcaption>
 </figure>
 <figure>
-  <img src= "/images/portfolio/Idocriw_cocoso/4.PNG" alt="Groundwater Potential Map (Mean Weighted-CoCoSo)">
+  <img src= "/images/portfolio/Idocriw_cocoso/4.png" alt="Groundwater Potential Map (Mean Weighted-CoCoSo)">
   <figcaption><em>Groundwater Potential Map (Mean Weighted-CoCoSo)</em></figcaption>
 </figure> 
 
