@@ -41,7 +41,7 @@ collection: portfolio
 - The produced groundwater potential map (IDOCRIW-CoCoSo) is advantageous in meeting SDG 6.1 goals
 
 <figure>
-  <img src= "/images/portfolio/Idocriw_cocoso/2.JPG" alt="Groundwater potential map (IDOCRIW-CoCoSo)">
+  <img src= "/images/portfolio/Idocriw_cocoso/2.jpg" alt="Groundwater potential map (IDOCRIW-CoCoSo)">
   <figcaption><em>Groundwater Potential Map (IDOCRIW-CoCoSo)</em></figcaption>
 </figure>
 <figure>
@@ -52,5 +52,8 @@ collection: portfolio
   <img src= "/images/portfolio/Idocriw_cocoso/7.PNG" alt="Sensitivity analysis of IDOCRIW-CoCoSo">
   <figcaption><em>Sensitivity analysis of IDOCRIW-CoCoSo</em></figcaption>
 </figure>
-
+<figure>
+  <img src= "/images/portfolio/Idocriw_cocoso/8.png" alt="Heatmap of IDOCRIW-CoCoSo model">
+  <figcaption><em></em>Heatmap of IDOCRIW-CoCoSo model demonstrating the stability of its outputs across the fishnet locations during scenario analysis</figcaption>
+</figure>
 
