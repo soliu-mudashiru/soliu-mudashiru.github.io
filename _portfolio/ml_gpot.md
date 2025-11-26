@@ -1,6 +1,6 @@
 ---
 title: "ML algorithms for groundwater sustainability in a data scarce region"
-excerpt: "Study area <br/><img src='/images/portfolio/ml_gpot/1.png'>"
+excerpt: "Study area <br/><img src='{{ site.baseurl }}/images/portfolio/ml_gpot/1.png'>"
 collection: portfolio
 ---
 
@@ -16,30 +16,30 @@ collection: portfolio
 - The result demonstrated the abilities of data driven approaches in partitioning groundwater locations for its sustainability even in data scarce region
 
 <figure>
-  <img src= "/images/portfolio/ml_gpot/2.png" alt="Fishnet location template">
+  <img src= "{{ site.baseurl }}/images/portfolio/ml_gpot/2.png" alt="Fishnet location template">
   <figcaption><em>Fishnet location used to extract values of influencing variables into the modelling. It was also adopted in selecting appropriate target points from the borehole yield map which served as the spatial representation of the target variable in the study region </em></figcaption>
 </figure>
 <figure>
-  <img src="/images/portfolio/ml_got/3.png" alt="Methodology flowchart">
+  <img src="{{ site.baseurl }}/images/portfolio/ml_got/3.png" alt="Methodology flowchart">
   <figcaption><em>Flowchart detailing the whole workflow involved in the data driven ML approach applied to the assessment of groundwater sustainability in the area </em></figcaption>
 </figure>
 <figure>
-  <img src="/images/portfolio/ml_gpot/4.png" alt="Groundwater potential maps (SVM and xGBoost)">
+  <img src="{{ site.baseurl }}/images/portfolio/ml_gpot/4.png" alt="Groundwater potential maps (SVM and xGBoost)">
   <figcaption><em>Groundwater potential maps of SVM and xGBoost models showing how the area have been classified into different groundwater potential classes</em></figcaption>
 </figure> 
 
 <figure>
-  <img src="/images/portfolio/ml_gpot/5.png" alt="Groundwater potential maps (RF and AdaBoost)">
+  <img src="{{ site.baseurl }}/images/portfolio/ml_gpot/5.png" alt="Groundwater potential maps (RF and AdaBoost)">
   <figcaption><em>Groundwater potential maps of RF and AdaBoost models showing how the area have been partitioned into different groundwater potential domains</em></figcaption>
 </figure>
 
 <figure>
-  <img src="/images/portfolio/ml_gpot/6.png" alt="Groundwater potential map (AHP)">
+  <img src="{{ site.baseurl }}/images/portfolio/ml_gpot/6.png" alt="Groundwater potential map (AHP)">
   <figcaption><em>AHP based Groundwater potential map of the study area</em></figcaption>
 </figure>
 
 <figure>
-  <img src="/images/portfolio/ml_gpot/7.png" alt="AUC-ROC comparison of the models">
+  <img src="{{ site.baseurl }}/images/portfolio/ml_gpot/7.png" alt="AUC-ROC comparison of the models">
   <figcaption><em>AUC-ROC curve showing the predictive abilities of the models and ultimately showing that, all ML models outperform the AHP model</em></figcaption>
 </figure>
 

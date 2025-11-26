@@ -1,6 +1,6 @@
 ---
 title: "Hybrid objective model (IDOCRIW-CoCoSo) optimizes groundwater potential"
-excerpt: "Graphical abstract <br/><img src='/images/portfolio/Idocriw_cocoso/1.png'>"
+excerpt: "Graphical abstract <br/><img src='{{ site.baseurl }}/images/portfolio/Idocriw_cocoso/1.png'>"
 collection: portfolio
 ---
 
@@ -18,15 +18,15 @@ collection: portfolio
 - The produced groundwater potential map (IDOCRIW-CoCoSo) is advantageous in meeting SDG 6.1 goals
 
 <figure>
-  <img src= "/images/portfolio/Idocriw_cocoso/2.png" alt="Groundwater Potential Map (IDOCRIW-CoCoSo)">
+  <img src= "{{ site.baseurl }}/images/portfolio/Idocriw_cocoso/2.png" alt="Groundwater Potential Map (IDOCRIW-CoCoSo)">
   <figcaption><em>Groundwater Potential Map (IDOCRIW-CoCoSo)</em></figcaption>
 </figure>
 <figure>
-  <img src="/images/portfolio/Idocriw_cocoso/3.png" alt="Groundwater Potential Map (CRITIC-CoCoSo)">
+  <img src="{{ site.baseurl }}/images/portfolio/Idocriw_cocoso/3.png" alt="Groundwater Potential Map (CRITIC-CoCoSo)">
   <figcaption><em>Groundwater Potential Map (CRITIC-CoCoSo)</em></figcaption>
 </figure>
 <figure>
-  <img src="/images/portfolio/Idocriw_cocoso/4.png" alt="Groundwater Potential Map (Mean Weighted-CoCoSo)">
+  <img src="{{ site.baseurl }}/images/portfolio/Idocriw_cocoso/4.png" alt="Groundwater Potential Map (Mean Weighted-CoCoSo)">
   <figcaption><em>Groundwater Potential Map (Mean Weighted-CoCoSo)</em></figcaption>
 </figure> 
 
@@ -40,7 +40,7 @@ collection: portfolio
 - Reliability and comparative 
 
 <figure>
-  <img src="/images/portfolio/Idocriw_cocoso/5.png" alt="Methodology Flowchart">
+  <img src="{{ site.baseurl }}/images/portfolio/Idocriw_cocoso/5.png" alt="Methodology Flowchart">
   <figcaption><em>Methodology Flowchart</em></figcaption>
 </figure>
 
@@ -54,7 +54,7 @@ collection: portfolio
 - IDOCRIW-CoCoSo demonstrated stability during scenario analysis
 
 <figure>
-  <img src="/images/portfolio/Idocriw_cocoso/7.png" alt="Sensitivity analysis of IDOCRIW-CoCoSo">
+  <img src="{{ site.baseurl }}/images/portfolio/Idocriw_cocoso/7.png" alt="Sensitivity analysis of IDOCRIW-CoCoSo">
   <figcaption><em>Sensitivity analysis of IDOCRIW-CoCoSo</em></figcaption>
 </figure>
 

@@ -1,5 +1,5 @@
 ---
-title: "My Under Review Papers
+title: "My Under Review Papers"
 excerpt: "Caption <br/><img src='/images/portfolio/ml_gpot/8.png'>"
 collection: portfolio
 ---
