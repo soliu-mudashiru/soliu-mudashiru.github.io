@@ -4,7 +4,7 @@ excerpt: "Study area <br/><img src='/images/portfolio/ml_gpot/1.PNG'>"
 collection: portfolio
 ---
 
-**Description** Excerpt from under review work (2025). 
+**Description** Excerpt from published work (Ecological Frontiers, 2026). 
 
 ### Highlights 
 - Fishnet approach have been used to derive data partitioning for the ML modelling.
