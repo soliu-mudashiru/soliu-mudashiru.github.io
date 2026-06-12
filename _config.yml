@@ -26,7 +26,7 @@ author:
   avatar           : "/Profile1.PNG"
   name             : "Soliu Mudashiru"
   pronouns         :  
-  bio              : "Geospatial Modelling|Decision Analytics"
+  bio              : "Geospatial Modelling|Computational Geosciences"
   location         : 
   employer         : 
   uri              : 
@@ -42,7 +42,7 @@ author:
   orcid            : "https://orcid.org/0009-0003-2305-9646"
   semantic         : 
   pubmed           : 
-  researchgate     : 
+  researchgate     : "https://www.researchgate.net/profile/Soliu-Mudashiru"
   scopus           : 
 
   # Repositories and software development
