@@ -25,7 +25,7 @@
   }
 
   @include breakpoint($large) {
-    @include span(3 of 12);        // Changed this settings from 2 of 12 to 3 of 12 so it widens abit
+    @include span(2 of 12);        // Changed this settings from 2 of 12 to 3 of 12 so it widens abit
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -150,7 +150,7 @@
 
 .author__bio {
   margin: 0;
-  font-size: $type-size-4;   // added this line to make text larger than default
+  font-size: $type-size-6;   // added this line to make text smaller on small screens than default
   line-height: var(--base-line-height); // use theme variable for consistency
 
   @include breakpoint($large) {
