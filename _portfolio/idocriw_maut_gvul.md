@@ -60,8 +60,8 @@ Python programming coded IDOCRIW-MAUT model was applied to groundwater threat mo
 </figure>
 
 <figure>
-  <img src= "/images/portfolio/Idocriw_maut/7.PNG" alt="Correlation result of IDOCRIW-MAUT and AHP model">
-  <figcaption><em>Bar chart showing that IDOCRIW-MAUT showed better inverse correlation with longitudinal conductance data than AHP model</em></figcaption>
+  <img src= "/images/portfolio/Idocriw_maut/7.png" alt="Correlation result of IDOCRIW-MAUT and AHP model">
+  <figcaption><em>Bar chart showing that IDOCRIW-MAUT showed better correlation with longitudinal conductance data than AHP model</em></figcaption>
 </figure>
 
 ## Stability of IDOCRIW-MAUT model offers inference into its better threat modelling ability than AHP model
@@ -73,7 +73,7 @@ Python programming coded IDOCRIW-MAUT model was applied to groundwater threat mo
 
 <figure>
   <img src= "/images/portfolio/Idocriw_maut/8.jpg" alt="Study area visualization">
-  <figcaption><em>Visual representation of the area of study</em></figcaption>
+  <figcaption><em>Visual representation of the studied region</em></figcaption>
 </figure>
 
 <figure>

@@ -38,7 +38,7 @@ Grey relational analysis (GRA), Entropy and AHP models have been applied to mode
 </figure>
 
 <figure>
-  <img src= "/images/portfolio/landfill_suitability/5.PNG" alt="Flowchart of the modelling process">
+  <img src= "/images/portfolio/landfill_suitability/5.png" alt="Flowchart of the modelling process">
   <figcaption><em>Methodological flowchart elaborating the modelling processes</em></figcaption>
 </figure>
 
@@ -48,12 +48,12 @@ Grey relational analysis (GRA), Entropy and AHP models have been applied to mode
 ## Geospatial modelling of the landfill suitability was highlighted by Entropy, GRA and AHP models 
 
 <figure>
-  <img src= "/images/portfolio/landfill_suitability/6.PNG" alt="Entropy model landfill suitability map">
+  <img src= "/images/portfolio/landfill_suitability/6.png" alt="Entropy model landfill suitability map">
   <figcaption><em>Entropy model geospatial landfill map</em></figcaption>
 </figure>
 
 <figure>
-  <img src= "/images/portfolio/landfill_suitability/7.PNG" alt="GRA model landfill suitability map">
+  <img src= "/images/portfolio/landfill_suitability/7.png" alt="GRA model landfill suitability map">
   <figcaption><em>GRA model geospatial landfill map </em></figcaption>
 </figure>
 
@@ -70,6 +70,6 @@ Grey relational analysis (GRA), Entropy and AHP models have been applied to mode
 </figure>
 
 <figure>
-  <img src= "/images/portfolio/landfill_suitability/10.PNG" alt="Comparison of models' predictive abilities">
+  <img src= "/images/portfolio/landfill_suitability/10.png" alt="Comparison of models' predictive abilities">
   <figcaption><em>Visualization of the comparative assessment of the models' predictive ability</em></figcaption>
 </figure>
