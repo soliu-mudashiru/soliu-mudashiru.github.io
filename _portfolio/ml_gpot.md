@@ -30,7 +30,7 @@ Humanity's usage of water cannot be halted, as water is a necessary resource for
 </figure>
 
 <figure>
-  <img src= "/images/portfolio/ml_gpot/3.png" alt="Methodology flowchart">
+  <img src= "/images/portfolio/ml_gpot/3.PNG" alt="Methodology flowchart">
   <figcaption><em>Flowchart detailing the whole workflow involved in the data driven ML approach applied to the assessment of groundwater sustainability in the area </em></figcaption>
 </figure>
 
