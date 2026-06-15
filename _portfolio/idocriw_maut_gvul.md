@@ -35,7 +35,7 @@ Python programming coded IDOCRIW-MAUT model was applied to groundwater threat mo
 </figure>
 
 <figure>
-  <img src= "/images/portfolio/Idocriw_maut/3.PNG" alt="Methodology Flowchart">
+  <img src= "/images/portfolio/Idocriw_maut/3.png" alt="Methodology Flowchart">
   <figcaption><em>Flowchart highlighting the vulnerability assessment process</em></figcaption>
 </figure>
 
