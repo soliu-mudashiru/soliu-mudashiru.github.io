@@ -62,12 +62,12 @@ Humanity's usage of water cannot be halted, as water is a necessary resource for
 </figure>
 
 <figure>
-  <img src= "/images/portfolio/ml_gpot/9.jpg" alt="AUC-ROC comparison of the models">
+  <img src= "/images/portfolio/ml_gpot/9.JPG" alt="AUC-ROC comparison of the models">
   <figcaption><em>AUC-ROC curve showing the predictive abilities of the models and ultimately showing that, all ML models outperform the AHP model</em></figcaption>
 </figure>
 
 <figure>
-  <img src= "/images/portfolio/ml_gpot/10.jpg" alt="Sensitivity analysis of AHP result">
+  <img src= "/images/portfolio/ml_gpot/10.JPG" alt="Sensitivity analysis of AHP result">
   <figcaption><em>Bar chart of sensisitivity analysis of AHP model indicating that lineament density (LD) and geology (GY) are critical parameters in the modelling</em></figcaption>
 </figure>
 
