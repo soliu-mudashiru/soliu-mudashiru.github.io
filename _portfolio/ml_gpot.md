@@ -25,7 +25,7 @@ Humanity's usage of water cannot be halted, as water is a necessary resource for
 ---
 # Methodology
 <figure>
-  <img src= "/images/portfolio/ml_gpot/2.JPG" alt="Fishnet location template">
+  <img src= "/images/portfolio/ml_gpot/2.jpg" alt="Fishnet location template">
   <figcaption><em>Fishnet location used to extract values of influencing variables into the modelling. It was also adopted in selecting appropriate target points from the borehole yield map which served as the spatial representation of the target variable in the study region </em></figcaption>
 </figure>
 
