@@ -150,13 +150,13 @@
 
 .author__bio {
   margin: 0;
-  font-size: $type-size-6;   // added this line to make text smaller on small screens than default
+  font-size: $type-size-7;   // added this line to make text smaller on small screens than default
   line-height: var(--base-line-height); // use theme variable for consistency
 
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 20px;
-    font-size: $type-size-4; // added this line to make it even larger on desktop
+    font-size: $type-size-5; // added this line to make it even larger on desktop
   }
 }
 

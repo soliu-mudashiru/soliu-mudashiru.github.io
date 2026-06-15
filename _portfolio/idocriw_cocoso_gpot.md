@@ -2,18 +2,19 @@
 title: "Hybrid objective model (IDOCRIW-CoCoSo) optimizes groundwater potential"
 excerpt: "Graphical abstract <br/><img src='/images/portfolio/Idocriw_cocoso/1.PNG'>"
 collection: portfolio
+author_profile: false
 ---
 ---
 # Description
-Published work, Cleaner Water (2026) [Link](https://www.sciencedirect.com/science/article/pii/S2950263226000694) 
+_Published work - Cleaner Water (2026). [Link](https://www.sciencedirect.com/science/article/pii/S2950263226000694)_
 
 ---
 # Highlights 
-- Applied Integrated Determination of Objective Criteria Weights-Combined Compromise Solution (IDOCRIW-CoCoSo) multi-criteria decision-making approach.
+- Integrated Determination of Objective Criteria Weights-Combined Compromise Solution (IDOCRIW-CoCoSo) multi-criteria decision-making approach have been employed to model groundwater potential of the area.
 
-- Utilized remote sensing and geophysical conditioning datasets for the modelling.
+- Integration of Remote sensing and geophysical datasets proved effective for the modelling.
 
-- Used other objective models (CRITIC-CoCoSo, and Mean Weighted CoCoSo) as comparative tools. 
+- Comparative analysis with objective models (CRITIC-CoCoSo, and Mean Weighted CoCoSo) ensured confidence in the adopted approach. 
 
 ---
 # Abstract
