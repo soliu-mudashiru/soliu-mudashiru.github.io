@@ -1,6 +1,6 @@
 ---
 title: "ML algorithms for groundwater sustainability in a data scarce region"
-excerpt: "Study area <br/><img src='/images/portfolio/ml_gpot/1.JPG'>"
+excerpt: "Study area <br/><img src='/images/portfolio/ml_gpot/1.jpg'>"
 collection: portfolio
 author_profile: false
 ---
@@ -37,37 +37,37 @@ Humanity's usage of water cannot be halted, as water is a necessary resource for
 ---
 # Results
 <figure>
-  <img src= "/images/portfolio/ml_gpot/4.JPG" alt="Groundwater potential map (AdaBoost)">
+  <img src= "/images/portfolio/ml_gpot/4.jpg" alt="Groundwater potential map (AdaBoost)">
   <figcaption><em>Groundwater potential map of AdaBoost model highlighting the groundwater potential divisions of the study area</em></figcaption>
 </figure> 
 
 <figure>
-  <img src= "/images/portfolio/ml_gpot/5.JPG" alt="Groundwater potential maps (SVM and xGBoost)">
+  <img src= "/images/portfolio/ml_gpot/5.jpg" alt="Groundwater potential maps (SVM and xGBoost)">
   <figcaption><em>Groundwater potential map of RF model indicating the groundwater potential zoning of the studya area</em></figcaption>
 </figure>
 
 <figure>
-  <img src= "/images/portfolio/ml_gpot/6.JPG" alt="Groundwater potential map (xGBoost)">
+  <img src= "/images/portfolio/ml_gpot/6.jpg" alt="Groundwater potential map (xGBoost)">
   <figcaption><em>Groundwater potential map of xGBoost model showing how the area have been classified into different groundwater potential classes</em></figcaption>
 </figure>
 
 <figure>
-  <img src= "/images/portfolio/ml_gpot/7.JPG" alt="Groundwater potential map (SVM)">
+  <img src= "/images/portfolio/ml_gpot/7.jpg" alt="Groundwater potential map (SVM)">
   <figcaption><em>Groundwater potential map of SVM model showing how the area have been partitioned into different groundwater potential domains</em></figcaption>
 </figure>
 
 <figure>
-  <img src= "/images/portfolio/ml_gpot/8.JPG" alt="Groundwater potential map (AHP)">
+  <img src= "/images/portfolio/ml_gpot/8.jpg" alt="Groundwater potential map (AHP)">
   <figcaption><em>AHP based Groundwater potential map of the study area</em></figcaption>
 </figure>
 
 <figure>
-  <img src= "/images/portfolio/ml_gpot/9.JPG" alt="AUC-ROC comparison of the models">
+  <img src= "/images/portfolio/ml_gpot/9.jpg" alt="AUC-ROC comparison of the models">
   <figcaption><em>AUC-ROC curve showing the predictive abilities of the models and ultimately showing that, all ML models outperform the AHP model</em></figcaption>
 </figure>
 
 <figure>
-  <img src= "/images/portfolio/ml_gpot/10.JPG" alt="Sensitivity analysis of AHP result">
+  <img src= "/images/portfolio/ml_gpot/10.jpg" alt="Sensitivity analysis of AHP result">
   <figcaption><em>Bar chart of sensisitivity analysis of AHP model indicating that lineament density (LD) and geology (GY) are critical parameters in the modelling</em></figcaption>
 </figure>
 
