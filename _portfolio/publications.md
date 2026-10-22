@@ -5,5 +5,4 @@ collection: portfolio
 author_profile: false
 ---
 
-1.  Mogaji, K.A., Eval, J.F., Afolabi, D.O., **Mudashiru, S.A**., Effiong, A.J & Adegoke, Q.O (2025). Landslide susceptibility assessment using     Catastrophe Theory and Analytical Hierarchy Process Concepts in Southwestern Nigeria: Insights from geophysical, geological and meteorological data sets.  Discover Geoscience (Springer Nature).
-[View Abstract (pdf)](/files/abstract_landslide_ct.pdf)
+1.  Mogaji, K.A., **Mudashiru, S.A**., Oguntade, S.O., Olatunji, O.A & Gbolahan, O.F (2026). Assessment of subsoil stability to support sustainable city development using geospatial framework in southwestern, Nigeria.  Discover Sustainability (Springer Nature).
